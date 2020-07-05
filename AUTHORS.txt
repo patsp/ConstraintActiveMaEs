@@ -1,0 +1,5 @@
+# This is the official list of Constraint Active-MA-ES authors for copyright purposes.
+
+Patrick Spettel <Patrick_dot_Spettel_at_fhv_dot_at, Patrick_dot_Spettel_at_aon_dot_at>
+Hans-Georg Beyer <Hans-Georg_dot_Beyer_at_fhv_dot_at>
+
