@@ -20,7 +20,7 @@ problem (see comments) for demonstration purposes.
 
 The design is such that the incorporation of the algorithm into
 different evaluation frameworks should be relatively convenient.
-The objective and constraint functions can be passes as function
+The objective and constraint functions can be passed as function
 handles to the algorithm.
 
 Running in the BBOB COCO framework
