@@ -57,7 +57,7 @@ function [x, info] = ConstraintActiveMaEs(objectiveFun, constraintFun, config)
   %    proposed in [2] for the case of the (1+1)-CMA-ES.
   %    [1]
   %    Simplify Your Covariance Matrix Adaptation Evolution Strategy
-  %    Beyer, Hans-Georg. and Sendhoff, Bernhard
+  %    Beyer, Hans-Georg and Sendhoff, Bernhard
   %    (2017)
   %    [2]
   %    A (1+1)-CMA-ES for Constrained Optimisation
